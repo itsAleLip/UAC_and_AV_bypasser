@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nkSjwTfn08E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lipar\\Desktop\\UAC_Bypasser-terminale\\UAC_Bypasser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lipar\\.nuget\\packages\\system.codedom\\10.0.5\\system.codedom.10.0.5.nupkg.sha512",
+    "C:\\Users\\lipar\\.nuget\\packages\\system.management\\10.0.5\\system.management.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
